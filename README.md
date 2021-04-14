@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# A Muliplayer TicTacToe app
+More of a practice application to build session based multiplayer games which uses [socket.io](socket.io)/[webrtc](https://webrtc.org/) or whatever these kind of games usually use.
+
+The ultimate goal is to recreate my project from high school ([Logophile](https://github.com/ABSanthosh/Logophile)) using react.
+
+
+## Netlify build status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ed3fdb6-57c8-4949-b79a-da154ee6f6be/deploy-status)](https://app.netlify.com/sites/mtictactoe/deploys)
+
+<hr>
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
